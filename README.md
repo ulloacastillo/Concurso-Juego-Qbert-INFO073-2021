@@ -8,7 +8,9 @@ Se solicta poder clonar este repostorio para poder probar cada uno de los juegos
 ## Importante
 
 > Debes tener instalado una versión de python 3.X
+
 > Debes tener instalada la librería pygame de python, ya que sin esto no podrás ejecutar los juegos.
+
 > Para probar los juegos debes ejecutar el archivo `main.py` presente en todas las carpetas.
 
 
