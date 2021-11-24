@@ -16,5 +16,5 @@ Se solicta poder clonar este repostorio para poder probar cada uno de los juegos
 
 INFO073: Taller de introducción a la Profesión - Ingeniería Civil en informática UACh
 
-Profesoras: Marianna Villarroel y Yasna Barrientos
+Profesoras: Marianna Villarroel y Yasna Barrientos --
 Estudiantes Colaboradores: Tamara Badilla y Jorge Ulloa
